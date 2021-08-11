@@ -173,7 +173,4 @@ while True:
         break
 
       
-# after coming out of the while loop 
-# we print thanks for playing 
 
-print("\nThanks for playing")
